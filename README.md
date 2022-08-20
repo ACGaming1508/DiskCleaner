@@ -9,4 +9,4 @@ Clean all unnecessary/temporary files in your local disk.
 ## Note
 - Batch file only works on Windows.
 - Do not delete or modify anything if you don't know what it is.
-- The file just clears almost all unncessary/temporary files in your disk, not attemp to destroy/attack your PC.
+- The file just clears almost all unncessary/temporary files in your disk, not attempt to destroy/attack your PC.
